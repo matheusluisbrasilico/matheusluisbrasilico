@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello there, I'm Matheus Luís Brasílico! 👋
 
-<!--
-**matheusluisbrasilico/matheusluisbrasilico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Database student (3rd semester) and my focus is on transforming data into strategic solutions and insights. Currently, I am deepening my knowledge in data manipulation with SQL and Python, and in the future, I will expand my knowledge in Power BI.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate student in **Database**.
+- 🐍 Developing scripts using **Python**.
+- 📊 Upcoming goal: Starting my journey with **Power BI**.
+- 🎯 Career Goal: To work as a Data Scientist / Data Analyst / DBA.
+---
+
+### 🛠️ Skills & Tools
+
+| **Languages & Queries** | SQL, Python |
+| **Databases** | PostgreSQL | Dynamo DB AWS | Neo4j
+| **Learning / Next Steps** | Power BI, Data Modeling, Dashboard |
+
+---
+
+### 📫 Connect with me
+
+- **LinkedIn:** www.linkedin.com/in/matheusluisbrasilico
+- **Email:** matheusluisbrasilico@gmail.com
