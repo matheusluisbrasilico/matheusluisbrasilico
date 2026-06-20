@@ -17,7 +17,7 @@ I am a Database student (3rd semester) and my focus is on transforming data into
 
 | **Databases** | PostgreSQL | Dynamo DB AWS | Neo4j |
 
-| **Learning / Next Steps** | Power BI, Data Modeling, Dashboard |
+| **Learning | Next Steps** | Power BI | Data Modeling | Dashboard |
 
 ---
 
