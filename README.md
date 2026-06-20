@@ -8,7 +8,7 @@ I am a Database student (3rd semester) and my focus is on transforming data into
 - 🎓 Undergraduate student in **Database**.
 - 🐍 Developing scripts using **Python**.
 - 📊 Upcoming goal: Starting my journey with **Power BI**.
-- 🎯 Career Goal: To work as a Data Scientist / Data Analyst / DBA.
+- 🎯 Career Goal: To work as a *Data Scientist / Data Analyst / DBA*.
 ---
 
 ### 🛠️ Skills & Tools
