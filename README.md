@@ -14,7 +14,9 @@ I am a Database student (3rd semester) and my focus is on transforming data into
 ### 🛠️ Skills & Tools
 
 | **Languages & Queries** | SQL, Python |
-| **Databases** | PostgreSQL | Dynamo DB AWS | Neo4j
+
+| **Databases** | PostgreSQL | Dynamo DB AWS | Neo4j |
+
 | **Learning / Next Steps** | Power BI, Data Modeling, Dashboard |
 
 ---
